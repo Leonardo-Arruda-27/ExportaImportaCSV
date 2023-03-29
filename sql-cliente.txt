@@ -1,0 +1,10 @@
+create table cliente(
+id serial primary key,
+nome text,
+cpf text,
+idade int	
+);
+
+drop table cliente;
+
+select * from cliente;

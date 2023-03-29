@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rk1HPU/ctPTCdT/Qf9oEf6sLDGUJn4WPDyL2SE11r3RUEJCOzbwJOQThu/wGTpjnXBbOJ/qDgB2IdVCLqHtOGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leo5d\\Documents\\Estudos\\C#\\Projetos\\ProjetoLerCsv\\ProjetoLerCsv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leo5d\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\leo5d\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
